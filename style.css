@@ -1,0 +1,31 @@
+body{
+    background-color:#f7eef6 
+}
+
+#Main{
+    display: flex;
+    justify-content: space-around;
+} 
+
+.c2 img{
+    width: 882px;
+    height: 805px;
+}
+
+.c1{
+    padding-top: 250px;
+    padding-left: 30px;
+}
+.c1 h1{
+    font-weight: 60px;
+}
+.c1 span{
+    background-color: rgb(131, 10, 10);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+.c1 span a{
+    color: white;
+}
