@@ -6,7 +6,7 @@ This is a simple homepage for an architecture website built using only HTML and 
 - Clean and minimal design.
 - Basic structure for showcasing architectural projects.
 - basic HTML page
-  
+- converting it into react using vite react project
 
 ## File Structure
 ```
