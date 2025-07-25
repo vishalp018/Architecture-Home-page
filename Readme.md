@@ -5,6 +5,8 @@ This is a simple homepage for an architecture website built using only HTML and 
 ## Features
 - Clean and minimal design.
 - Basic structure for showcasing architectural projects.
+- basic HTML page
+  
 
 ## File Structure
 ```
